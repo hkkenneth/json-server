@@ -5,6 +5,53 @@
       "title": "hello"
     }
   ],
+  "dx": [
+    {
+      "id": "dm",
+      "payload": [
+        {
+          "icd9": "250.00",
+          "desc": "TYPE II DIABETES MELLITUS WITHOUT MENTION OF COMPLICATION"
+        },{
+          "icd9": "250.01",
+          "desc": "TYPE I DIABETES MELLITUS WITHOUT MENTION OF COMPLICATION"
+        },{
+          "icd9": "250.02",
+          "desc": "TYPE II DIABETES MELLITUS WITHOUT MENTION OF COMPLICATION, UNCONTROLLED"
+        },{
+          "icd9": "250.03",
+          "desc": "TYPE I DIABETES MELLITUS WITHOUT MENTION OF COMPLICATION, UNCONTROLLED"
+        },{
+          "icd9": "250.10",
+          "desc": "TYPE II DIABETES MELLITUS WITH KETOACIDOSIS"
+        },{
+          "icd9": "250.12",
+          "desc": "NIDDM with ketoacidosis, uncontrolled"
+        }
+      ]
+    },
+    {
+      "id": "arf",
+      "payload": [
+        {
+          "icd9": "518.81",
+          "desc": "RESPIRATORY FAILURE"
+        },{
+          "icd9": "584.5",
+          "desc": "Acute renal failure with tubular necrosis"
+        },{
+          "icd9": "584.6",
+          "desc": "Acute renal failure with lesion of tubular necrosis"
+        },{
+          "icd9": "584.7",
+          "desc": "Acute renal failure with lesion of renal medullary necrosis"
+        },{
+          "icd9": "584.9",
+          "desc": "Acute renal failure, unspecified"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
